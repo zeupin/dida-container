@@ -4,6 +4,10 @@
 
 - 源码 <https://github.com/zeupin/dida-container>
 
+## 遵循的规范
+
+- PSR-11 容器接口规范<br>官方: <https://www.php-fig.org/psr/psr-11/><br>中文翻译: <https://learnku.com/docs/psr/psr-11-container/1621>。
+
 ## 支持三种服务类型
 
 - 类名 -- `CLASSNAME_TYPE`
@@ -25,7 +29,7 @@
 
 ## 作者
 
-- [Macc Liu](https://github.com/maccliu)。
+- [Macc Liu](https://github.com/maccliu)，欢迎 follow。
 
 ## 感谢
 
