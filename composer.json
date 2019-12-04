@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Dida\\Container": "src/Dida/Container"
+      "Dida\\Container\\": "src/Dida/Container"
     }
   },
   "provide": {
